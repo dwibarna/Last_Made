@@ -55,6 +55,7 @@ androidx.savedstate:savedstate
 androidx.slidingpanelayout:slidingpanelayout
 androidx.sqlite:sqlite
 androidx.sqlite:sqlite-framework
+androidx.sqlite:sqlite-ktx
 androidx.swiperefreshlayout:swiperefreshlayout
 androidx.tracing:tracing
 androidx.transition:transition
@@ -74,6 +75,7 @@ com.squareup.okhttp3:okhttp
 com.squareup.okio:okio
 com.squareup.retrofit2:converter-gson
 com.squareup.retrofit2:retrofit
+net.zetetic:android-database-sqlcipher
 org.jetbrains.kotlin:kotlin-android-extensions-runtime
 org.jetbrains.kotlin:kotlin-stdlib
 org.jetbrains.kotlin:kotlin-stdlib-common

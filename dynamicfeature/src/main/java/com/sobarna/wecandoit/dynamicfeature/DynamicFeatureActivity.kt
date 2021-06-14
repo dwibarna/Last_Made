@@ -1,13 +1,10 @@
 package com.sobarna.wecandoit.dynamicfeature
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.sobarna.wecandoit.adapter.MovieAdapter
-import com.sobarna.wecandoit.data.Resource
+import com.sobarna.wecandoit.core.adapter.MovieAdapter
 import com.sobarna.wecandoit.dynamicfeature.databinding.ActivityDynamicFeatureBinding
 import com.sobarna.wecandoit.dynamicfeature.module.dynamicModule
 import com.sobarna.wecandoit.view.DetailActivity

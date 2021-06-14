@@ -1,14 +1,14 @@
-com/sobarna/wecandoit/data/source/local/room/MovieDatabase_Impl.java
- com.sobarna.wecandoit.data.source.local.room.MovieDatabase_Impl
- com.sobarna.wecandoit.data.source.local.room.MovieDatabase_Impl$1
-com/sobarna/wecandoit/data/source/local/room/MovieDao_Impl.java
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl$1
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl$2
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl$3
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl$4
- com.sobarna.wecandoit.data.source.local.room.MovieDao_Impl$5
-com/sobarna/wecandoit/BuildConfig.java
- com.sobarna.wecandoit.BuildConfig
-com/sobarna/wecandoit/databinding/ListItemBinding.java
- com.sobarna.wecandoit.databinding.ListItemBinding
+com/sobarna/wecandoit/core/BuildConfig.java
+ com.sobarna.wecandoit.core.BuildConfig
+com/sobarna/wecandoit/core/data/source/local/room/MovieDao_Impl.java
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl$1
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl$2
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl$3
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl$4
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDao_Impl$5
+com/sobarna/wecandoit/core/data/source/local/room/MovieDatabase_Impl.java
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDatabase_Impl
+ com.sobarna.wecandoit.core.data.source.local.room.MovieDatabase_Impl$1
+com/sobarna/wecandoit/core/databinding/ListItemBinding.java
+ com.sobarna.wecandoit.core.databinding.ListItemBinding

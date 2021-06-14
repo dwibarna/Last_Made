@@ -1,9 +1,9 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.sobarna.wecandoit" >
+3    package="com.sobarna.wecandoit.core" >
 4
 5    <uses-sdk
-6        android:minSdkVersion="21"
+6        android:minSdkVersion="16"
 6-->I:\Aplikasi Android\WeCanDoIt\core\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="30" />
 7-->I:\Aplikasi Android\WeCanDoIt\core\src\main\AndroidManifest.xml
