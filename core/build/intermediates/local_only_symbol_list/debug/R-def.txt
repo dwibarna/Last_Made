@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id ivDateList
+id ivItemList
+id ivTitleItemList
+layout list_item
+string Home
+string _11_20_2031
+string app_name
+string hello_blank_fragment
+string the_indcridible_dwi_aji_sobarna
+string user_score

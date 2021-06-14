@@ -1,0 +1,4 @@
+com/sobarna/wecandoit/dynamicfeature/databinding/ActivityDynamicFeatureBinding.java
+ com.sobarna.wecandoit.dynamicfeature.databinding.ActivityDynamicFeatureBinding
+com/sobarna/wecandoit/dynamicfeature/BuildConfig.java
+ com.sobarna.wecandoit.dynamicfeature.BuildConfig

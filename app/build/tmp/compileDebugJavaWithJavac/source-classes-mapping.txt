@@ -1,0 +1,10 @@
+com/sobarna/wecandoit/BuildConfig.java
+ com.sobarna.wecandoit.BuildConfig
+com/sobarna/wecandoit/databinding/FragmentFavoriteBinding.java
+ com.sobarna.wecandoit.databinding.FragmentFavoriteBinding
+com/sobarna/wecandoit/databinding/FragmentMovieBinding.java
+ com.sobarna.wecandoit.databinding.FragmentMovieBinding
+com/sobarna/wecandoit/databinding/ActivityDetailBinding.java
+ com.sobarna.wecandoit.databinding.ActivityDetailBinding
+com/sobarna/wecandoit/databinding/ActivityMainBinding.java
+ com.sobarna.wecandoit.databinding.ActivityMainBinding

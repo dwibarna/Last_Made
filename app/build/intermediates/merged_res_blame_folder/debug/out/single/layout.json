@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorite.xml",
+        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_movie.xml",
+        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_movie.xml"
+    }
+]

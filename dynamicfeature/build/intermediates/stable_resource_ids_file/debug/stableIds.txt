@@ -1,0 +1,3 @@
+com.sobarna.wecandoit:layout/activity_dynamic_feature = 0x7e020000
+com.sobarna.wecandoit:id/rvDynamic = 0x7e010001
+com.sobarna.wecandoit:id/pbDynamic = 0x7e010000
