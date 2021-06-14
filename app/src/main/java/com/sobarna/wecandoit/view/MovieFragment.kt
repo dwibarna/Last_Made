@@ -1,6 +1,9 @@
 package com.sobarna.wecandoit.view
 
+import android.content.BroadcastReceiver
+import android.content.Context
 import android.content.Intent
+import android.content.IntentFilter
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -9,7 +12,6 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.sobarna.wecandoit.core.adapter.MovieAdapter
-
 import com.sobarna.wecandoit.core.data.Resource
 import com.sobarna.wecandoit.databinding.FragmentMovieBinding
 import com.sobarna.wecandoit.viewmodel.HomeViewModel
@@ -17,6 +19,7 @@ import org.koin.androidx.viewmodel.ext.android.viewModel
 
 
 class MovieFragment : Fragment() {
+
 
     private val homeViewModel: HomeViewModel by viewModel()
     private var _binding: FragmentMovieBinding? = null
@@ -69,4 +72,6 @@ class MovieFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
+
+
 }

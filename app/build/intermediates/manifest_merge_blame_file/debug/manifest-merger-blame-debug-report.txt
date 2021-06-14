@@ -6,87 +6,209 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+8-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+9-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:5:5-66
-11-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:5:22-64
-12
-13    <application
-13-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:7:5-23:19
-14        android:name="com.sobarna.wecandoit.MyApplication"
-14-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:8:9-38
-15        android:allowBackup="true"
-15-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:9:9-35
-16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.5.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2035b8ef85a6eac2fc4525b65dd8dd0d\core-1.5.0\AndroidManifest.xml:24:18-86
-17        android:debuggable="true"
-17-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34
-18        android:icon="@mipmap/ic_launcher"
-18-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:10:9-43
-19        android:label="@string/app_name"
-19-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:11:9-41
-20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:12:9-54
-21        android:supportsRtl="true"
-21-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:13:9-35
-22        android:testOnly="true"
-22-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:9-32
-23        android:theme="@style/Theme.WeCanDoIt" >
-23-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:14:9-47
-24        <activity android:name="com.sobarna.wecandoit.view.DetailActivity" />
-24-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:15:9-56
-24-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:15:19-54
-25        <activity android:name="com.sobarna.wecandoit.MainActivity" >
-25-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:16:9-22:20
-25-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:16:19-47
-26            <intent-filter>
-26-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:17:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:18:17-69
-27-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:18:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:20:17-77
-29-->I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
+11-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:5:5-66
+11-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:5:22-64
+12    <!-- To store the heap dumps and leak analysis results. -->
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:23:5-80
+13-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:23:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+14-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:24:5-81
+14-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:24:22-78
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:26:5-77
+15-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:26:22-74
+16
+17    <application
+17-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:7:5-23:19
+18        android:name="com.sobarna.wecandoit.MyApplication"
+18-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:8:9-38
+19        android:allowBackup="true"
+19-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:9:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.5.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2035b8ef85a6eac2fc4525b65dd8dd0d\core-1.5.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+21-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34
+22        android:icon="@mipmap/ic_launcher"
+22-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:10:9-43
+23        android:label="@string/app_name"
+23-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:11:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:12:9-54
+25        android:supportsRtl="true"
+25-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:13:9-35
+26        android:testOnly="true"
+26-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:9-32
+27        android:theme="@style/Theme.WeCanDoIt" >
+27-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:14:9-47
+28        <activity android:name="com.sobarna.wecandoit.view.DetailActivity" />
+28-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:15:9-56
+28-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:15:19-54
+29        <activity android:name="com.sobarna.wecandoit.MainActivity" >
+29-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:16:9-22:20
+29-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:16:19-47
+30            <intent-filter>
+30-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:17:13-21:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:17-69
+31-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:25-66
 32
-33        <service
-33-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
-34            android:name="androidx.room.MultiInstanceInvalidationService"
-34-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
-35            android:directBootAware="true"
-35-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
-36            android:exported="false" />
-36-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
-37
-38        <activity
-38-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:9-36:20
-39            android:name="com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity"
-39-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-87
-40            android:splitName="dynamicfeature" >
-40-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:13-47
-41            <intent-filter>
-41-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:27:13-35:29
-42                <action android:name="android.intent.action.VIEW" />
-42-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-69
-42-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:25-66
-43
-44                <category android:name="android.intent.category.DEFAULT" />
-44-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-76
-44-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:27-73
-45
-46                <data
-46-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:17-34:50
-47                    android:host="dynamic"
-47-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:33:21-43
-48                    android:scheme="wecandoit" />
-48-->[:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:34:21-47
-49            </intent-filter>
-50        </activity>
-51    </application>
-52
-53</manifest>
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:17-77
+33-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <service
+37-->[com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:23:9-25:40
+38            android:name="leakcanary.internal.HeapAnalyzerService"
+38-->[com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:24:13-67
+39            android:exported="false" />
+39-->[com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:25:13-37
+40
+41        <provider
+41-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:29:9-37:20
+42            android:name="leakcanary.internal.LeakCanaryFileProvider"
+42-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:30:13-70
+43            android:authorities="com.squareup.leakcanary.fileprovider.com.sobarna.wecandoit"
+43-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:31:13-88
+44            android:exported="false"
+44-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:32:13-37
+45            android:grantUriPermissions="true" >
+45-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:33:13-47
+46            <meta-data
+46-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:34:13-36:66
+47                android:name="android.support.FILE_PROVIDER_PATHS"
+47-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:35:17-67
+48                android:resource="@xml/leak_canary_file_paths" />
+48-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:36:17-63
+49        </provider>
+50
+51        <activity
+51-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:39:9-44:66
+52            android:name="leakcanary.internal.activity.LeakActivity"
+52-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:40:13-69
+53            android:icon="@mipmap/leak_canary_icon"
+53-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:41:13-52
+54            android:label="@string/leak_canary_display_activity_label"
+54-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:42:13-71
+55            android:taskAffinity="com.squareup.leakcanary.com.sobarna.wecandoit"
+55-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:43:13-76
+56            android:theme="@style/leak_canary_LeakCanary.Base" />
+56-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:44:13-63
+57
+58        <activity-alias
+58-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:46:9-62:26
+59            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+59-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:47:13-77
+60            android:banner="@drawable/leak_canary_tv_icon"
+60-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:48:13-59
+61            android:enabled="@bool/leak_canary_add_launcher_icon"
+61-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:49:13-66
+62            android:icon="@mipmap/leak_canary_icon"
+62-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:50:13-52
+63            android:label="@string/leak_canary_display_activity_label"
+63-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:51:13-71
+64            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+64-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:52:13-79
+65            android:taskAffinity="com.squareup.leakcanary.com.sobarna.wecandoit"
+65-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:53:13-76
+66            android:theme="@style/leak_canary_LeakCanary.Base" >
+66-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:54:13-63
+67            <intent-filter>
+67-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:55:13-61:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:17-69
+68-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:17-77
+70-->I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:27-74
+71                <!-- Android TV launcher intent -->
+72                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+72-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:60:17-86
+72-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:60:27-83
+73            </intent-filter>
+74        </activity-alias>
+75
+76        <activity
+76-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:64:9-70:68
+77            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+77-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:65:13-80
+78            android:excludeFromRecents="true"
+78-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:66:13-46
+79            android:icon="@mipmap/leak_canary_icon"
+79-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:67:13-52
+80            android:label="@string/leak_canary_storage_permission_activity_label"
+80-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:68:13-82
+81            android:taskAffinity="com.squareup.leakcanary.com.sobarna.wecandoit"
+81-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:69:13-76
+82            android:theme="@style/leak_canary_Theme.Transparent" />
+82-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:70:13-65
+83
+84        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+84-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:72:9-77
+84-->[com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:72:19-74
+85
+86        <provider
+86-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:8:9-12:40
+87            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+87-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:9:13-79
+88            android:authorities="com.sobarna.wecandoit.leakcanary-installer"
+88-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:10:13-72
+89            android:enabled="@bool/leak_canary_watcher_auto_install"
+89-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:11:13-69
+90            android:exported="false" />
+90-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:12:13-37
+91        <provider
+91-->[com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:8:9-12:40
+92            android:name="leakcanary.internal.PlumberInstaller"
+92-->[com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:9:13-64
+93            android:authorities="com.sobarna.wecandoit.plumber-installer"
+93-->[com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:10:13-69
+94            android:enabled="@bool/leak_canary_plumber_auto_install"
+94-->[com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:11:13-69
+95            android:exported="false" />
+95-->[com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:12:13-37
+96
+97        <service
+97-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+98            android:name="androidx.room.MultiInstanceInvalidationService"
+98-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+99            android:directBootAware="true"
+99-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+100            android:exported="false" />
+100-->[androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+101
+102        <activity
+102-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:9-36:20
+103            android:name="com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity"
+103-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-87
+104            android:splitName="dynamicfeature" >
+104-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:13-47
+105            <intent-filter>
+105-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:27:13-35:29
+106                <action android:name="android.intent.action.VIEW" />
+106-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-69
+106-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:25-66
+107
+108                <category android:name="android.intent.category.DEFAULT" />
+108-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-76
+108-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:27-73
+109
+110                <data
+110-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:17-34:50
+111                    android:host="dynamic"
+111-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:33:21-43
+112                    android:scheme="wecandoit" />
+112-->[:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:34:21-47
+113            </intent-filter>
+114        </activity>
+115    </application>
+116
+117</manifest>

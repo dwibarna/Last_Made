@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\f1cc980b546aad733c19efeaca8d00a1\\material-1.3.0\\res\\values-ne\\values-ne.xml",

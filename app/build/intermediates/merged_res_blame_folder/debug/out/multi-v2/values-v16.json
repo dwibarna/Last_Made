@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\2035b8ef85a6eac2fc4525b65dd8dd0d\\core-1.5.0\\res\\values-v16\\values-v16.xml",

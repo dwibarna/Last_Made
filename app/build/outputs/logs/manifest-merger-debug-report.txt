@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-MERGED from [:core] I:\Aplikasi Android\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:core] I:\coba 2\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1ee2f2657baf1a6788761e5720e5dc77\viewbinding-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\f1cc980b546aad733c19efeaca8d00a1\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0ac81ce6399a72a60a4874a48faad71d\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [org.koin:koin-androidx-viewmodel:2.1.6] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4c8fba4fa51ab1adbbc46ed4b10f6e62\koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:2:1-9:12
@@ -19,9 +20,14 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\asus\.gradle\caches\
 MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c39808416ffe230ebee19ef4917159b5\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c7bc9c25cc0bc0b184e3846f514035ca\glide-4.12.0\AndroidManifest.xml:2:1-12:12
 MERGED from [org.koin:koin-android:2.1.6] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ac9909856dd6c0531d92e997168f1c53\koin-android-2.1.6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:17:1-75:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\87f37370a5757affe90c439ac46f88f1\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\512128a69b76922d082061ab0316622a\room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite-ktx:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\041398a4626e643572835ad07c03f600\sqlite-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\09a3006988bbae6c52760247bc9977c3\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2b25f637e37c5b38363ebb7bd8a9bd1f\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ff5badbf4f293d60fcbb1617b0b8107e\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c1439a3300342b78a2816e17a77f5e55\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9f085b4c5ace705a061562083e7631fe\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
@@ -64,30 +70,32 @@ MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\asus\.gradle\cache
 MERGED from [net.zetetic:android-database-sqlcipher:4.4.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2d434e07e2765e8898e48f69c40f351f\android-database-sqlcipher-4.4.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\aaab261cdcf286374270d240e1dbda02\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\206946c601b727d48743560e516a422f\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:2:1-39:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:2:1-39:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:7:5-23:19
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\f1cc980b546aad733c19efeaca8d00a1\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\f1cc980b546aad733c19efeaca8d00a1\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0ac81ce6399a72a60a4874a48faad71d\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -98,6 +106,12 @@ MERGED from [org.koin:koin-androidx-scope:2.1.6] C:\Users\asus\.gradle\caches\tr
 MERGED from [org.koin:koin-androidx-scope:2.1.6] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c2b296b776aae2e27426f965c6670eae\koin-androidx-scope-2.1.6\AndroidManifest.xml:7:5-20
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c7bc9c25cc0bc0b184e3846f514035ca\glide-4.12.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c7bc9c25cc0bc0b184e3846f514035ca\glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:7:5-13:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c1439a3300342b78a2816e17a77f5e55\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c1439a3300342b78a2816e17a77f5e55\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.core:core:1.5.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2035b8ef85a6eac2fc4525b65dd8dd0d\core-1.5.0\AndroidManifest.xml:24:5-89
@@ -108,54 +122,56 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\as
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\6631310c57563a7cb3029ce2f2216cd6\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
-MERGED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
-MERGED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2035b8ef85a6eac2fc4525b65dd8dd0d\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:11:9-41
 	android:debuggable
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34
 	android:testOnly
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:9-32
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:9-32
 	android:roundIcon
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:14:9-47
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:14:9-47
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:8:9-38
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:8:9-38
 activity#com.sobarna.wecandoit.view.DetailActivity
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:15:9-56
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:15:9-56
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:15:19-54
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:15:19-54
 activity#com.sobarna.wecandoit.MainActivity
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-MERGED from [:core] I:\Aplikasi Android\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:core] I:\Aplikasi Android\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+MERGED from [:core] I:\coba 2\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:core] I:\coba 2\WeCanDoIt\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1ee2f2657baf1a6788761e5720e5dc77\viewbinding-4.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1ee2f2657baf1a6788761e5720e5dc77\viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\f1cc980b546aad733c19efeaca8d00a1\material-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\f1cc980b546aad733c19efeaca8d00a1\material-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0ac81ce6399a72a60a4874a48faad71d\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
@@ -182,12 +198,22 @@ MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\asus\.gradle\cache
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c7bc9c25cc0bc0b184e3846f514035ca\glide-4.12.0\AndroidManifest.xml:6:5-8:41
 MERGED from [org.koin:koin-android:2.1.6] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ac9909856dd6c0531d92e997168f1c53\koin-android-2.1.6\AndroidManifest.xml:5:5-44
 MERGED from [org.koin:koin-android:2.1.6] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ac9909856dd6c0531d92e997168f1c53\koin-android-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\87f37370a5757affe90c439ac46f88f1\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\87f37370a5757affe90c439ac46f88f1\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\512128a69b76922d082061ab0316622a\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\512128a69b76922d082061ab0316622a\room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-ktx:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\041398a4626e643572835ad07c03f600\sqlite-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite-ktx:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\041398a4626e643572835ad07c03f600\sqlite-ktx-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\09a3006988bbae6c52760247bc9977c3\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\09a3006988bbae6c52760247bc9977c3\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2b25f637e37c5b38363ebb7bd8a9bd1f\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2b25f637e37c5b38363ebb7bd8a9bd1f\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ff5badbf4f293d60fcbb1617b0b8107e\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\ff5badbf4f293d60fcbb1617b0b8107e\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c1439a3300342b78a2816e17a77f5e55\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
@@ -272,19 +298,127 @@ MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\asus\.gradle\caches\transfor
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\aaab261cdcf286374270d240e1dbda02\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\206946c601b727d48743560e516a422f\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\206946c601b727d48743560e516a422f\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:9:5-47
-MERGED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:9:5-47
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:9:5-47
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:9:5-47
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		ADDED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		MERGED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
-		INJECTED from I:\Aplikasi Android\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		MERGED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+		INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1a4c43911914ab7d1d2ab168bdf1717f\leakcanary-android-2.4\AndroidManifest.xml:24:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:46:9-62:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:49:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:51:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:52:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:50:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:54:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:53:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:47:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:55:13-61:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:60:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:60:27-83
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:64:9-70:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:68:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:66:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:67:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:70:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:69:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:65:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:72:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\0cd8f485dbf1e6c1512d06d75daf85ed\leakcanary-android-core-2.4\AndroidManifest.xml:72:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\662f25e794844f3f0bb81526e5161b74\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:9:13-79
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\184dc114664fcba7e5c998ef4d2c5315\plumber-android-2.4\AndroidManifest.xml:9:13-64
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
 	android:exported
@@ -294,24 +428,24 @@ ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\trans
 	android:name
 		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 activity#com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity
-ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:9-36:20
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:9-36:20
 	android:splitName
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:13-47
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-87
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-87
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:dynamic+data:scheme:wecandoit
-ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:27:13-35:29
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:27:13-35:29
 action#android.intent.action.VIEW
-ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-69
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:25-66
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-76
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:27-73
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:27-73
 data
-ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:17-34:50
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:17-34:50
 	android:host
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:33:21-43
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:33:21-43
 	android:scheme
-		ADDED from [:dynamicfeature] I:\Aplikasi Android\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:34:21-47
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:34:21-47

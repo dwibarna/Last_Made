@@ -1,98 +1,98 @@
 [
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_movie.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_black.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_favorite_black.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_movie.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\logo_movie.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_white.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_favorite_white.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_movie.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_favorite_white.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_not_favorite_white.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_black.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_favorite_black.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorite.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorite.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_favorite_white.xml.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_not_favorite_white.xml"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_white.xml.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\drawable\\ic_favorite_white.xml"
     },
     {
-        "merged": "I:\\Aplikasi Android\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_movie.png.flat",
-        "source": "I:\\Aplikasi Android\\WeCanDoIt\\app\\src\\main\\res\\drawable\\logo_movie.png"
+        "merged": "I:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "I:\\coba 2\\WeCanDoIt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]
