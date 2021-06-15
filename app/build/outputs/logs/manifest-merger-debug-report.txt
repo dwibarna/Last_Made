@@ -70,7 +70,7 @@ MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\asus\.gradle\cache
 MERGED from [net.zetetic:android-database-sqlcipher:4.4.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2d434e07e2765e8898e48f69c40f351f\android-database-sqlcipher-4.4.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\aaab261cdcf286374270d240e1dbda02\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\206946c601b727d48743560e516a422f\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:2:1-37:12
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:2:1-39:12
 INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:2:1-24:12
@@ -122,8 +122,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\as
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\6631310c57563a7cb3029ce2f2216cd6\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
-MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-35:19
-MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-35:19
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
+MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:5-37:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\2035b8ef85a6eac2fc4525b65dd8dd0d\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -131,7 +131,9 @@ MERGED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermedi
 	android:label
 		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:11:9-41
 	android:debuggable
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:21:18-43
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34
+	android:testOnly
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:9-32
 	android:roundIcon
 		ADDED from I:\coba 2\WeCanDoIt\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
@@ -426,24 +428,24 @@ ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\trans
 	android:name
 		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\84c525f529f450447bdadfaeb1aa8270\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 activity#com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity
-ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:22:9-34:20
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:9-36:20
 	android:splitName
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:24:13-47
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:23:13-87
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-87
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:dynamic+data:scheme:wecandoit
-ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:25:13-33:29
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:27:13-35:29
 action#android.intent.action.VIEW
-ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:17-69
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:26:25-66
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:17-76
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:28:27-73
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:27-73
 data
-ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:30:17-32:50
+ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:17-34:50
 	android:host
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:31:21-43
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:33:21-43
 	android:scheme
-		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:32:21-47
+		ADDED from [:dynamicfeature] I:\coba 2\WeCanDoIt\dynamicfeature\build\intermediates\metadata_feature_manifest\debug\AndroidManifest.xml:34:21-47
