@@ -3,7 +3,6 @@ package com.sobarna.wecandoit
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.sobarna.wecandoit.view.FavoriteFragment
-import com.sobarna.wecandoit.MainActivity
 import com.sobarna.wecandoit.view.MovieFragment
 
 class SectionPagerAdapter(activity: MainActivity): FragmentStateAdapter(activity) {

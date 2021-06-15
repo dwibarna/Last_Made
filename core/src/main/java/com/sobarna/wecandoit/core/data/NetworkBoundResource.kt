@@ -1,3 +1,5 @@
+@file:Suppress("RemoveExplicitTypeArguments")
+
 package com.sobarna.wecandoit.core.data
 
 import com.sobarna.wecandoit.core.data.source.remote.network.ApiResponse

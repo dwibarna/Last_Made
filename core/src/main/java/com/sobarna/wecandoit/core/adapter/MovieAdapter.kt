@@ -43,13 +43,11 @@ class MovieAdapter : RecyclerView.Adapter<MovieAdapter.ListViewHolder>() {
             val dateFormat: DateFormat = SimpleDateFormat("dd MMMM yyyy")
             val df = SimpleDateFormat("yyyy-MM-dd")
             val newDate = dateFormat.format(df.parse(oldDate)!!)
-            with(binding) {
-                Glide.with(itemView.context)
-                    .load(imageUrl)
-                    .into(ivItemList)
-                binding.ivTitleItemList.text = data.title
-                binding.ivDateList.text = newDate
-            }
+            Glide.with(itemView.context)
+                .load(imageUrl)
+                .into(binding.ivItemList)
+            binding.ivTitleItemList.text = data.title
+            binding.ivDateList.text = newDate
         }
         init {
             binding.root.setOnClickListener {

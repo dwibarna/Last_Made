@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-5:12
-INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-5:12
+ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-4:12
 	package
-		ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:3:5-41
+		ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:11-47
 		INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml
 		INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:11-69
+		ADDED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml:2:1-4:12
 uses-sdk
 INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from I:\coba 2\WeCanDoIt\core\src\main\AndroidManifest.xml

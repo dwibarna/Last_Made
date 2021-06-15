@@ -1,3 +1,5 @@
+@file:Suppress("unused")
+
 package com.sobarna.wecandoit.core.utils
 
 import android.os.Handler

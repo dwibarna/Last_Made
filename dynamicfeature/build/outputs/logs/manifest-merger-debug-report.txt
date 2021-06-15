@@ -1,64 +1,68 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:4:5-51
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:5:5-51
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:4:5-51
 	xmlns:dist
 		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:3:5-61
 	android:versionCode
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:2:11-69
 dist:module
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:6:5-14:19
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:7:5-15:19
 	dist:instant
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:7:9-29
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:8:9-29
 	dist:title
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:8:9-50
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:9:9-50
 dist:delivery
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:9:9-11:25
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:10:9-12:25
 dist:install-time
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:10:13-34
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:11:13-34
 dist:fusing
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:13:9-44
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:14:9-44
 	dist:include
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:13:22-41
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:14:22-41
 application
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:16:5-25:19
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:17:5-26:19
+	tools:ignore
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:17:18-44
 activity#com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:17:9-24:20
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:9-25:20
 	android:name
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:17:19-57
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:19-57
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:dynamic+data:scheme:wecandoit
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:13-23:29
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:19:13-24:29
 action#android.intent.action.VIEW
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:19:17-68
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:17-68
 	android:name
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:19:25-66
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.DEFAULT
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:17-75
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:17-75
 	android:name
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:27-73
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:27-73
 data
-ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:17-22:45
+ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:17-23:45
 	android:host
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:21-43
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:23:21-43
 	android:scheme
-		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:23-49
+		ADDED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:23-49
 uses-sdk
 INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml
