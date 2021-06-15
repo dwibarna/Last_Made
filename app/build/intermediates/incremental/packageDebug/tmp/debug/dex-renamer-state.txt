@@ -1,28 +1,4 @@
-#Tue Jun 15 07:39:48 ICT 2021
-path.1=0/classes.dex
+#Tue Jun 15 15:19:57 ICT 2021
+base.0=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\base_dex\\debug\\classes.dex
 path.0=classes.dex
-renamed.8=classes9.dex
-renamed.7=classes8.dex
-renamed.6=classes7.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
-base.8=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 renamed.0=classes.dex
-base.7=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.6=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.5=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.4=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.2=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=I\:\\coba 2\\WeCanDoIt\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.8=classes2.dex
-path.7=4/classes.dex
-path.6=14/classes.dex
-path.5=12/classes.dex
-path.4=11/classes.dex
-path.3=10/classes.dex
-path.2=0/classes.dex
