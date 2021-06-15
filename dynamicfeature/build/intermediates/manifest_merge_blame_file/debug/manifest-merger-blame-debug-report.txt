@@ -29,33 +29,31 @@
 20-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:14:22-41
 21    </dist:module>
 22
-23    <application
+23    <application android:debuggable="true" >
 23-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:17:5-26:19
-24        android:debuggable="true"
-25        android:testOnly="true" >
-26        <activity
-26-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:9-25:20
-27            android:name="com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity"
-27-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:19-57
-28            android:splitName="dynamicfeature" >
-29            <intent-filter>
-29-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:19:13-24:29
-30                <action android:name="android.intent.action.VIEW" />
-30-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:17-68
-30-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:25-66
+24        <activity
+24-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:9-25:20
+25            android:name="com.sobarna.wecandoit.dynamicfeature.DynamicFeatureActivity"
+25-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:18:19-57
+26            android:splitName="dynamicfeature" >
+27            <intent-filter>
+27-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:19:13-24:29
+28                <action android:name="android.intent.action.VIEW" />
+28-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:17-68
+28-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.DEFAULT" />
+30-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:17-75
+30-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:27-73
 31
-32                <category android:name="android.intent.category.DEFAULT" />
-32-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:17-75
-32-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:21:27-73
-33
-34                <data
-34-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:17-23:45
-35                    android:host="dynamic"
-35-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:23:21-43
-36                    android:scheme="wecandoit" />
-36-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:23-49
-37            </intent-filter>
-38        </activity>
-39    </application>
-40
-41</manifest>
+32                <data
+32-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:17-23:45
+33                    android:host="dynamic"
+33-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:23:21-43
+34                    android:scheme="wecandoit" />
+34-->I:\coba 2\WeCanDoIt\dynamicfeature\src\main\AndroidManifest.xml:22:23-49
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>
